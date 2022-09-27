@@ -1,12 +1,12 @@
 {
-  "name": "project-structure",
+  "name": "medicine",
   "version": "1.0.0",
   "description": "",
   "main": "main.js",
+  "type": "module",
   "scripts": {
     "start": "nodemon main.js"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
